@@ -6,4 +6,4 @@
 
 *comando git pull
 
-*comando git fettch
+*comando git fetch
